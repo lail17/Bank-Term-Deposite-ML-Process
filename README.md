@@ -13,7 +13,7 @@ Akan dilakukan klasifikasi menggunakan dua metode ini. Kemudian dibandingkan has
 ## Dataset
 Dataset yang digunakan merupakan data nasabah dari sebuah Lembaga di Potugis. Data memiliki total 4521 baris dengan 17 variabel. Berikut diberikan penjelasan mengenai masing-masing variabel atau fitur.
 
-1 — age (numerik): usia
+1 — age (numerik): usia\\
 2 — job (kategorikal): jenis pekerjaan
 3 — marital (kategorikal): status pernikahan
 4 — education (kategorikal): pendidikan
